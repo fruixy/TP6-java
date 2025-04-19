@@ -1,6 +1,5 @@
 package org.example.tp6;
 
-
 public abstract class Book {
     String title;
     double price;

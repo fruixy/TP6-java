@@ -1,5 +1,6 @@
 package org.example.tp6;
 
+
 public class Admin implements AdminActions {
 
     @Override
